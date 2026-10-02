@@ -1,7 +1,6 @@
 replicas: 2
-
 image:
-  tag: "4.0.1"
-
+  tag: "4.0.3"
+  name: ghcr.io/1223812789/spring-petclinic
 app:
   contextPath: "/tp8"
